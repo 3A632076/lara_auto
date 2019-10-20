@@ -6,5 +6,7 @@
             "email": "moon9638150@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog": "^1.25"
+    }
 }
