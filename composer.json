@@ -1,16 +1,10 @@
 {
-    "name": "lin/lara_auto",
+    "name": "suer/lara_auto",
     "authors": [
         {
             "name": "lin ming ying",
             "email": "moon9638150@gmail.com"
         }
     ],
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "Demo\\": "./src/Demo"
-        }
-    }
-
+    "require": {}
 }
